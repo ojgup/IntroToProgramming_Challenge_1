@@ -1,0 +1,7 @@
+C:\Users\102542177\Documents\GitHub\diceRoll\diceRoll\bin\Debug\diceRoll.exe.config
+C:\Users\102542177\Documents\GitHub\diceRoll\diceRoll\bin\Debug\diceRoll.exe
+C:\Users\102542177\Documents\GitHub\diceRoll\diceRoll\bin\Debug\diceRoll.pdb
+C:\Users\102542177\Documents\GitHub\diceRoll\diceRoll\obj\Debug\diceRoll.csprojAssemblyReference.cache
+C:\Users\102542177\Documents\GitHub\diceRoll\diceRoll\obj\Debug\diceRoll.csproj.CoreCompileInputs.cache
+C:\Users\102542177\Documents\GitHub\diceRoll\diceRoll\obj\Debug\diceRoll.exe
+C:\Users\102542177\Documents\GitHub\diceRoll\diceRoll\obj\Debug\diceRoll.pdb
