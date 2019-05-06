@@ -35,12 +35,14 @@ namespace diceRoll
                     sum += allNumbersRolled[numberRolled];
 
 
+
                 }
             }
 
-            double average = (float) sum / (float) allNumbersRolled.Count;
+            double average = (float) sum / (float) size;
             Console.WriteLine("Total sum of all rolls : " + sum);
             Console.WriteLine("Total average of all rolls : " + average);
+            Console.WriteLine(allNumbersRolled.Count);
         } 
 
         static void Main(string[] args)
@@ -53,7 +55,7 @@ namespace diceRoll
             while (stillPlaying)
             {
                 Console.WriteLine("Enter in '1' to roll. \nEnter in '2' to display stats \nEnter '3' to quit. \n\n");
-                choice = int.Parse(Console.ReadLine());
+                choice = int.Parse(Console.ReadLine()); 
 
                 if (choice == 1)
                 {
